@@ -8,6 +8,8 @@ import java.util.Map;
 
 
 public class Utils {
+	int a = 5;
+	
 	// key = word, case sensitive; value = unigram count
 	static Map<String, Long> unigram_count = new HashMap<String, Long>();
 	

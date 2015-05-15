@@ -7,5 +7,4 @@ public class Checker {
 		System.out.println(Utils.getUnigramCount("amazing"));
 		System.out.println(Utils.getUnigramCount("day"));
 	}
-
 }
